@@ -497,6 +497,10 @@ PrefabInstance:
         Try picking up the cup, manipulating the near panel, teleporting, and throwing
         objects.\r"
       objectReference: {fileID: 0}
+    - target: {fileID: 362064923490377828, guid: b16424dcc3deba241b1457370a8e5b5e, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
     - target: {fileID: 1692844862838774296, guid: b16424dcc3deba241b1457370a8e5b5e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -858,6 +862,10 @@ PrefabInstance:
     - target: {fileID: 8218336300177146065, guid: b16424dcc3deba241b1457370a8e5b5e, type: 3}
       propertyPath: m_text
       value: Comprehensive Rig
+      objectReference: {fileID: 0}
+    - target: {fileID: 8218336300177146065, guid: b16424dcc3deba241b1457370a8e5b5e, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
       objectReference: {fileID: 0}
     - target: {fileID: 8667612279375853683, guid: b16424dcc3deba241b1457370a8e5b5e, type: 3}
       propertyPath: m_AnchorMax.y
@@ -18747,6 +18755,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6475179787556155900, guid: 015d50c6ae209554ca438fae7e311d27, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
     - target: {fileID: 6475179787556155901, guid: 015d50c6ae209554ca438fae7e311d27, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -18950,6 +18962,10 @@ PrefabInstance:
     - target: {fileID: 6475179788379111151, guid: 015d50c6ae209554ca438fae7e311d27, type: 3}
       propertyPath: m_ChildForceExpandWidth
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6475179788379758249, guid: 015d50c6ae209554ca438fae7e311d27, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
       objectReference: {fileID: 0}
     - target: {fileID: 6475179788379758250, guid: 015d50c6ae209554ca438fae7e311d27, type: 3}
       propertyPath: m_AnchorMax.y
